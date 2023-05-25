@@ -12,12 +12,11 @@
 
 }   
 body{
-    background-image: ;
+    background-color: #010D26;
 }
 h1{
     text-align: center;
     font-size: 60px;
-    font-style: italic;
-    font-weight: 100;
+    color: #022859;
 
 }
