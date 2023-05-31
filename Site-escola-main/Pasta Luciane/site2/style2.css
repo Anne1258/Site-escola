@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --cor0:#010D26;
+    --cor01:
+    --cor02:
+    --cor03:
+    --cor04:
+
+}   
+body{
+    background-color: #010D26;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: #022859;
+
+}
