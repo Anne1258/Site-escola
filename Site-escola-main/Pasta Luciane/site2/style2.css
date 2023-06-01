@@ -1,22 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family= Playfair :wght@300 & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Abril+Fatface & family= Playfair:wght@300 & display=swap');
+
 *{
     margin: 0;
     padding: 0;
 }
-
 :root{
-    --cor0:#010D26;
-    --cor01:
-    --cor02:
-    --cor03:
-    --cor04:
+ --font01:'Playfair', serif;
+ --font02:'Abril Fatface', cursive,'Playfair', serif;
 
-}   
-body{
-    background-color: #010D26;
+ --cor01:
 }
-h1{
-    text-align: center;
-    font-size: 60px;
-    color: #022859;
+.img{
+    background-image: url();
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: flex;
+    margin: auto;
+    border: 20px solid lightgrey;
+}
+div{
+    box-shadow: 5px 5px 6px 2px gray;
 
+}
+main{
+    background-color: lightyellow;
+    margin: 200px;
+    border-radius: 10px;
+    align-items: center;
 }
