@@ -12,7 +12,7 @@
  --cor01:
 }
 .img{
-    background-image: url();
+    background-image: url(taboeiro.png);
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -24,9 +24,37 @@ div{
     box-shadow: 5px 5px 6px 2px gray;
 
 }
+header{
+    padding: 150px;
+    background-image: url();
+}
 main{
-    background-color: lightyellow;
+    background-color:white;
     margin: 200px;
     border-radius: 10px;
-    align-items: center;
+    text-align: center;
+}
+nav > ul > a{
+    padding: 30px;
+    letter-spacing: 0.1px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 50px;
+    box-shadow: 5px 0px 7px 2px;
+}
+p{
+    text-align: justify;
+    padding: 30px;
+}
+aside{
+    margin: auto;
+}
+aside.img{
+    display: inline-block;
+    margin-left: 20px;
+}
+footer{
+    padding: 200px;
+    background-color: rgb(225, 225, 225),;
 }
